@@ -133,3 +133,5 @@ dmypy.json
 *.xls
 *.xlsx
 *.zip
+
+*trash*
